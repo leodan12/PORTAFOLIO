@@ -266,5 +266,5 @@
 </html>
 
  
-<script type="text/javascript" src="http://stats.hosting24.com/count.php"></script>
+ 
  

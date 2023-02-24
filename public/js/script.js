@@ -263,11 +263,11 @@ $(document).ready(function() {
   	     Parallex-javascript
   	=============================================== */
 	
-	$('#testimonials').stellar();
-$('#slider-parallax').stellar();
+	//$('#testimonials').stellar();
+//$('#slider-parallax').stellar();
 
 
-    $(function(){
+   /* $(function(){
 
       $.stellar({
 
@@ -277,7 +277,7 @@ $('#slider-parallax').stellar();
 
       });
 
-    });
+    });*/
 
 
 	 /* ==============================================

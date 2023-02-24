@@ -174,7 +174,7 @@
     </div>
     <div class="portfolio-items">
       <div class="col-md-6 col-sm-6 col-xs-12 portfolio-item creative">
-        <div class="portfolio-item-inner"> <img class="img-responsive" src="images/geepperu.jpg" alt="" height="100%">
+        <div class="portfolio-item-inner"> <img class="img-responsive" src="images/geepperu.JPG" alt="" height="100%">
           <div class="portfolio-info"> <a  href="https://geepperu2.herokuapp.com/" target="_blank" >
             <i class="fa fa-eye" aria-hidden="true"> <span style="color: white;"> GEEP PERÚ S.R.L. </span></i>
             <h6 style="color: white;">CREDENCIALES DE ACCESO: </h6>  </a>
@@ -188,7 +188,7 @@
      
       <!--/.portfolio-item-->
       <div class="col-md-6 col-sm-6 col-xs-12 portfolio-item creative">
-        <div class="portfolio-item-inner"> <img class="img-responsive" src="images/emcosani.jpg" alt="">
+        <div class="portfolio-item-inner"> <img class="img-responsive" src="images/emcosani.JPG" alt="">
           <div class="portfolio-info"> <a   href="https://emcosani.herokuapp.com/"  >
             <i class="fa fa-eye" aria-hidden="true"> <span style="color: white;"> EMCOSANI S.A.C. </span></i>
             <h6 style="color: white;">CREDENCIALES DE ACCESO: </h6> </a>

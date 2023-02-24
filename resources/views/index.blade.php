@@ -142,7 +142,7 @@
             <div class="pull-left"> <i class="fa fa-check-circle-o" aria-hidden="true"></i> </div>
             <div class="media-body">
               <h5 class="media-heading">CODIGO LIMPIO</h5>
-              <p> ESCRITURA DE CODIGO LIMPIO, ORDENADO Y DOCUMENTADO sdgsdfg dsgf dsf srg erg rgse  </p>
+              <p> ESCRITURA DE CODIGO LIMPIO, ORDENADO Y DOCUMENTADO </p>
             </div>
           </div>
         </div>

@@ -112,7 +112,7 @@
             <div class="pull-left"> <i class="fa fa-desktop" aria-hidden="true"></i> </div>
             <div class="media-body">
               <h5 class="media-heading">DESK APPS</h5>
-              <p>USANDO LOS LENGUAJES DE DESARROLLO DE APLICACIONES DE:  <span>   VISUAL BASIC, JAVA </span>  </p>
+              <p>USANDO LOS LENGUAJES DE DESARROLLO DE APLICACIONES DE ESCRITORIO DE:  <span>   VISUAL BASIC, JAVA </span>  </p>
             </div>
           </div>
         </div>

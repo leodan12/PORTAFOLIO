@@ -92,7 +92,7 @@
             <div class="pull-left"> <i class="fa fa-line-chart"></i> </div>
             <div class="media-body">
               <h5 class="media-heading">DESARROLLO WEB</h5>
-              <p>USANDO LOS SIGUIENTES FRAMEWORSK Y LENGUAJES: <span> LARAVEL-PHP, DJANGO-PYTHON, SPRING BOOT-JAVA </span></p>
+              <p>USANDO LOS FRAMEWORS Y LENGUAJES: <span> LARAVEL-PHP, DJANGO-PYTHON, SPRING BOOT-JAVA </span></p>
             </div>
           </div>
         </div>

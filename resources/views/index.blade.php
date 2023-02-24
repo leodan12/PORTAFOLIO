@@ -248,14 +248,17 @@
 </footer>
 
 <script src="{{ asset('js/jquery.min.js') }}" type="text/javascript"></script>
-<script src="{{ asset('js/bootstrap.js') }}" type="text/javascript"></script>
+<script src="{{ asset('js/bootstrap.js') }}" type="text/javascript"></script> 
+
 <script src="{{ asset('js/jquery.prettyPhoto.js') }}" type="text/javascript"></script>
-<script src="{{ asset('js/jquery.nicescroll.js') }}" type="text/javascript"></script>
-<script src="{{ asset('js/waypoints.min.js') }}" type="text/javascript"></script>
-<script src="{{ asset('js/jquery.isotope.js') }}" type="text/javascript"></script>
+
+<script src="{{ asset('js/jquery.nicescroll.js') }}" type="text/javascript"></script> 
+<!--  
+<script src="{{ asset('js/waypoints.min.js') }}" type="text/javascript"></script>    -->
+<script src="{{ asset('js/jquery.isotope.js') }}" type="text/javascript"></script> 
 <script src="{{ asset('js/wow.js') }}" type="text/javascript"></script>
-<script src="{{ asset('js/jquery.countTo.js') }}" type="text/javascript"></script>
-<script src="{{ asset('js/jquery.inview.min.js') }}" type="text/javascript"></script>
+<!-- <script src="{{ asset('js/jquery.countTo.js') }}" type="text/javascript"></script>
+<script src="{{ asset('js/jquery.inview.min.js') }}" type="text/javascript"></script>-->
 <script src="{{ asset('js/owl.carousel.js') }}" type="text/javascript"></script>
 <script src="{{ asset('js/script.js') }}" type="text/javascript"></script>
  
